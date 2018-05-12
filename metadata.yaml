@@ -1,0 +1,32 @@
+_repo: The-Talking-HorseAnd-Other-Tales_27284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: The talking horse -- The good little girl -- A matter of taste --
+  Don; The story of a greedy dog -- Taken by surprise -- Paleface and redskin -- Shut
+  out -- Tommy's hero -- A canine Ishmael -- Marjory.
+title: The Talking Horse, and Other Tales
+url: http://www.gutenberg.org/ebooks/27284
